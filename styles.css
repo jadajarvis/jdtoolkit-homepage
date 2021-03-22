@@ -1,20 +1,30 @@
+
 body {
-	background-color: #add8e6;
+	background-color: #FFEFD5;
 	margin: 1em auto;
 	font-size: 10px;
 	padding: 1em;
 	text-align: center;
-	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	font-family: "Lucida Console", "Courier New","Monaco" monospace;
 }
 
 h1 {
-	color: #497335;
+	font-family: "Marker Felt", serif;
+	color: #8B4513;
 	font-size: 3em;
+	font-weight: bolder;
+}
+
+h2 {
+	font-family: "Marker Felt", serif;
+	color: #663399;
+	font-size: 2em;
+	font-weight: 600;
 }
 
 p, ul {
-	font-family: "Times New Roman", serif;
-	color: #497335;
+	font-family: "Courier New", serif;
+	color: #8B4513;
 	max-width: 30em;
 	width: 100%;
 	text-align: left;
@@ -26,7 +36,7 @@ p, ul {
 img.logo {
 	width: 100%;
 	height: auto;
-	max-width: 400px;
-	max-height: 400px;
+	max-width: 600px;
+	max-height: 600px;
 	margin: 2em auto;
 }
