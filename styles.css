@@ -5,7 +5,7 @@ body {
 	font-size: 10px;
 	padding: 1em;
 	text-align: center;
-	font-family: "Lucida Console", "Courier New","Monaco" monospace;
+	font-family: 'Shadows Into Light', cursive;
 }
 
 h1 {
@@ -23,7 +23,7 @@ h2 {
 }
 
 p, ul {
-	font-family: "Courier New", serif;
+	font-family: "Shadows Into Light", serif;
 	color: #8B4513;
 	max-width: 30em;
 	width: 100%;
