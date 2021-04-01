@@ -5,25 +5,25 @@ body {
 	font-size: 10px;
 	padding: 1em;
 	text-align: center;
-	font-family: 'Shadows Into Light', cursive;
+	font-family: 'Archivo Narrow', sans-serif;
 }
 
 h1 {
-	font-family: "Marker Felt", serif;
+	font-family: 'Archivo Narrow', sans-serif;
 	color: #8B4513;
 	font-size: 3em;
 	font-weight: bolder;
 }
 
 h2 {
-	font-family: "Marker Felt", serif;
+	font-family: 'Archivo Narrow', sans-serif;
 	color: #663399;
 	font-size: 2em;
 	font-weight: 600;
 }
 
 p, ul {
-	font-family: "Shadows Into Light", serif;
+	font-family: 'Archivo Narrow', sans-serif;
 	color: #8B4513;
 	max-width: 30em;
 	width: 100%;
